@@ -150,3 +150,8 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
       >> Mencetak laba per bulan
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba
+
+                                                
+                                                # DIMAS REZA NUGRAHA
+                                                # TI.19.A.2
+                                                # 311910431
